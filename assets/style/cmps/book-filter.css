@@ -1,0 +1,13 @@
+.book-filter{
+    background-color: lightblue;
+    padding: 3em;
+    margin-bottom: 1em;
+    padding-top: 1em;
+    font-size: 1.5em;
+    border-radius: 0.5em;
+}
+
+.book-filter input{
+    margin:0 1em;
+    font-size: 1em;
+}

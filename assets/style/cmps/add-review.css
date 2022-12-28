@@ -1,0 +1,27 @@
+.add-review{
+    margin-bottom: 1em;
+    border: 1px solid darkgray;
+    padding: 1em;
+    width: max-content;
+    border-radius: 0.5em;
+}
+
+.add-review form{
+    display: flex;
+    flex-direction: column;
+    font-size: 1em;
+    gap: 0.5em;
+}
+
+.add-review form input{
+    max-width: 300px;
+    font-size: 1.3em;
+}
+
+.add-review form label{
+    font-size: 1.5em;
+}
+
+.add-review form button{
+    max-width: 120px;
+}
